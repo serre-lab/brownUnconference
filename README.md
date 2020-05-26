@@ -1,3 +1,7 @@
+
+# Our Goal ! 
+
+Welcome to the one and only Brown unconference, where all the cool topics we are working as a community are destined to mingle and grow together. 
 ## Mini-Conf
 
 <a href="https://mini-conf.github.io/index.html">MiniConf</a> is a virtual conference in a box. It manages the papers, schedules, and speakers for an academic conference run virtually. It can be easily integrated with interactive tools such as video, chat, and QA.

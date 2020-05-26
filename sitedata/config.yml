@@ -1,6 +1,6 @@
-name: MiniConf
-tagline: MINICONF <br> CONFERENCE <br> MANAGEMENT
-date: May 2020
+name: Brown Unconference 
+tagline: Welcome to the Brown Unconference! 
+date: June 2020
 analytics: UA-
 logo:
   image: static/images/MiniConf.png
@@ -8,7 +8,7 @@ logo:
   height: auto
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
-background_image: static/images/main.jpg
+background_image: static/images/brown.jpg
 organization: MiniConf Organization Committee
 calendar:
   colors: #  Colors for the different event hashtags:

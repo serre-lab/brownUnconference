@@ -1,9 +1,9 @@
 committee:
-  - role: Developer 
-    name: Alexander Rush
-    aff: Cornell Tech, Hugging Face
-    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
-    tw: srush_nlp
+  - role: Faculty 
+    name: Thomas Serre 
+    aff: Carney Institute, Brown University
+    im: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2007/200908311112474722.jpg?itok=tsrXFSy4
+    tw: thomas_serre
   - role: Developer
     name: Hendrik Strobelt
     aff: MIT-IBM Watson AI Lab
