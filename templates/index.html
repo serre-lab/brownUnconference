@@ -31,6 +31,41 @@
 
 {{ readme | markdown }}
 
+<!-- Sponsor -->
+      <div class="sponsors">
+        <div class="border-top my-3"></div>
+        <div class="row p-4">
+        </div>
+        <div class="row p-4" id="organizers">
+          <div class="col-12 bd-content ">
+            <h2 class="text-center"> Sponsors </h2>
+          </div>
+        </div>
+        <!-- <center> -->
+        <!-- <img src="static/images/sponsors.png" width="100%" /> -->
+        <!-- </center> -->
+        {% for section in config.sponsors %}
+        <div class="row p-3">
+          <div class="col-12 bd-content ">
+            <h3 class="">
+            {{section.tier}} </h2>
+          </div>
+        </div>
+        <div class="row justify-content-start">
+          {% set rowloop = loop.index %}
+          {% for sponsor in section.vals %}
+          <div class="col-md-{{section.size}} col-xs-12 p-2" style="display: flex;flex-flow:wrap; margin-left:0; box-sizing: border-box; border:none;">
+            <div class="card "style="display:block; overflow:hidden; width:95%; border:none;">
+              <div class="card-header d-flex flex-wrap justify-content-center align-items-center" style="height: {{section.height}}px; background-color:white; border:none;">
+                <a  target="_blank" href="#"><img src="{{sponsor.img_src}}" style="width:{{sponsor.size}};" class="sponsorLogo" alt="{{sponsor.name}}" /></a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        {% endfor %}
+      </div>
+
 <!-- Organizers -->
 {{ components.section("Organizers") }}
 {{ components.organizergroup(committee) }}

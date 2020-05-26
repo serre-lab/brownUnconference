@@ -16,4 +16,23 @@ calendar:
     qa: '#4FCAEB'
     talk: '#ccc'
   sunday_saturday: false  #  Include Sunday and Saturday
+sponsors:
+- tier: Brown
+  size: 4
+  height: 270
+  vals:
+    - name: Brown University 
+      url: https://www.brown.edu
+      img_url: https://www.brown.edu
+      img_src: https://i2.wp.com/www.robinsonschool.org/wp-content/uploads/2018/01/Brown-University.png?ssl=1
+    
+    - name: Carney Institute for Brain Science 
+      img_url: https://www.brown.edu/carney/
+      url: https://www.brown.edu/carney/
+      img_src: https://www.brown.edu/carney/sites/carney/files/styles/large/public/images/news/CARNEY_brain_carneywordmark.png?itok=3GEPtuV4
+    
+    - name: Center for Computation & Visualization
+      img_url: https://ccv.brown.edu
+      url: https://ccv.brown.edu
+      img_src: https://avatars0.githubusercontent.com/u/16960394?s=200&v=4
 

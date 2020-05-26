@@ -66,6 +66,7 @@ def home():
     data = _data()
     data["readme"] = open("README.md").read()
     data["committee"] = site_data["committee"]["committee"]
+    data["config"]["sponsors"] = data["config"]["sponsors"]
     return render_template("index.html", **data)
 
 

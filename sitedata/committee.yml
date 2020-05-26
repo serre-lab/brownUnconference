@@ -1,11 +1,12 @@
 committee:
-  - role: Faculty 
+  - role: Chair 
     name: Thomas Serre 
     aff: Carney Institute, Brown University
     im: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2007/200908311112474722.jpg?itok=tsrXFSy4
-    tw: thomas_serre
-  - role: Developer
-    name: Hendrik Strobelt
-    aff: MIT-IBM Watson AI Lab
-    tw: hen_str
-    im: https://pbs.twimg.com/profile_images/885611190126292992/LF4CTcu_.jpg
+    tw: tserre
+  - role: Chair
+    name: James Tompkin
+    aff: Computer Science, Brown University 
+    tw: jtompkin
+    im: https://pbs.twimg.com/profile_images/1163872626852454400/TDIW05FT_400x400.jpg
+
