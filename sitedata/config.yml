@@ -9,7 +9,7 @@ logo:
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
 background_image: static/images/brown.jpg
-organization: MiniConf Organization Committee
+organization: Brown Unconf Organization Commitee
 calendar:
   colors: #  Colors for the different event hashtags:
     ---: '#bed972'
