@@ -2,17 +2,30 @@
   - role: Chair 
     name: Thomas Serre 
     aff: Carney Institute, Brown University
-    im: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2007/200908311112474722.jpg?itok=tsrXFSy4
+    im: https://vivo.brown.edu/profile-images/179/58/tserre.jpg
     tw: tserre
   - role: Chair
     name: James Tompkin
     aff: Computer Science, Brown University 
     tw: jtompkin
-    im: https://pbs.twimg.com/profile_images/1163872626852454400/TDIW05FT_400x400.jpg
+    im: http://graphics.cs.brown.edu/imagesGVI/people/James_Tompkin.png
   - role: Chair
     name: Ritambhara Singh
-    aff: Computer Science, Brown University 
+    aff: Computer Science & Center for Computational and Molecular Biology, Brown University 
     im: https://vivo.brown.edu/profile-images/4e6/48c/42b/238/407/aa3/868/08b/e5c/c23/39/rsingh47_photo_.jpg
+  - role: Graduate Student
+    name: Ivan Felipe Rodriguez
+    aff: CLPS, Brown University
+    im: https://serre-lab.clps.brown.edu/wp-content/uploads/2014/09/IMG_0992-768x512.jpg
+  - role: Graduate Student
+    name: Abdullah Rashed
+    aff: Department of Neuroscience, Brown University
+    im: https://serre-lab.clps.brown.edu/wp-content/uploads/2014/02/IMG_3754.jpeg
+  - role: Graduate Student
+    name: Aneri Soni
+    aff: Department of Neuroscience, Brown University
+    im: https://serre-lab.clps.brown.edu/wp-content/uploads/2016/10/IMG_5934-1-768x512.jpg
     
+
 
     
