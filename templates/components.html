@@ -82,9 +82,13 @@
         </div>
         <div>
           <h6 class="card-subtitle text-muted m-1" align="center">
-            {{org.aff}}{% if org.tw %} /
+            {{org.aff}}{% if org.tw %}  /
             <a class="text-muted" href="http://twitter.com/{{org.tw}}"
               >@{{org.tw}}</a
+            >{% endif %}
+            {% if org.tw2 %}  /
+            <a class="text-muted" href="http://twitter.com/{{org.tw2}}"
+              >@{{org.tw2}}</a
             >{% endif %}
           </h6>
         </div>

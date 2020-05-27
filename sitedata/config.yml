@@ -35,4 +35,15 @@ sponsors:
       img_url: https://ccv.brown.edu
       url: https://ccv.brown.edu
       img_src: https://avatars0.githubusercontent.com/u/16960394?s=200&v=4
-
+    - name: Center for Computational & Molecular Biology
+      img_url: https://www.brown.edu/academics/computational-molecular-biology/
+      url: https://www.brown.edu/academics/computational-molecular-biology/
+      img_src: https://brown.edu/Research/Ramachandran_Lab/files/logos/ccmbwithtext.png
+    - name: Data Science Initiative
+      img_url: https://www.brown.edu/initiatives/data-science/home
+      url: https://www.brown.edu/initiatives/data-science/home
+      img_src: https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/14705843_421752337949018_2350634261249810825_n.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=aYhOG-NxEsUAX8tLjEd&_nc_ht=scontent-lga3-1.xx&oh=11ac1f30e978b5759007909bea33245e&oe=5EF2BD84
+    - name: Department of Cognitive, Linguistic, and Psychological Sciences 
+      img_url: https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home
+      url: https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home
+      img_src: http://files.clps.brown.edu/brownlogos/CLPS-Logo.png
