@@ -9,6 +9,7 @@ The first annual Brown Unconference is an opportunity for researchers across Bro
 * Conference: June 29-30, 2020
 
 # Schedule 
+
 The schedule will be announced closer to the date of the conference. Across the two days of the conference, there will be three types of programs:
 
 * Lightning talks: 2 minute talks, introducing research and future directions
