@@ -9,7 +9,26 @@
   }
   .back h2 {
     font-family: "Lato", sans-serif;
-    font-weight: 900;
+    font-weight: 1200;
+  }
+  .back h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 1000;
+  }
+  
+  .btn {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    background-color: white;
+    border: white;
+    color: gray;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: white;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
   }
 </style>
 
@@ -17,12 +36,21 @@
   <div class="row header p-6 m-5">
     <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
       <h2>
-        {{config.tagline|safe}}
+        {{config.tagline|safe}}:
       </h2>
-      <h2 class="p-5">
+      <h1 class="p-3">
+        {{config.tagline2|safe}}
+      </h1>
+      <h2 class="p-3" >
         {{config.date}}
       </h2>
+     
+      <div class="button p-2">
+          <a href="{{config.register}}" target="_blank" class="btn">Register</a>
+          <a href="{{config.submit}}" target="_blank" class="btn">Submit </a>
     </div>
+    </div>
+    
   </div>
 </div>
 {% endblock %}
@@ -30,6 +58,9 @@
 {% block content %}
 
 {{ readme | markdown }}
+<!-- Registration -->
+
+  
 
 <!-- Sponsor -->
       <div class="sponsors">

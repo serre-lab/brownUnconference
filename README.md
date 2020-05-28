@@ -19,5 +19,13 @@ The schedule will be announced closer to the date of the conference. Across the 
 # Goals
 The purpose of the Brown Unconference is to celebrate the scientific advances happening throughout the university, and allow for further collaboration across departments.
 
+# Registration 
+
+Please register [here](https://forms.gle/KWE3hSjzj956bLUa8) To receive all the latest updates about the conference, including links  and instructions to watch the presentations. 
+
+# Submission 
+
+We welcome submission for all the deparment working on computational intelligence. Send your abstract [here](https://forms.gle/MFgdotPbG68vgyMA6). This is a safe space to share ideas so feel free to send work in progress. 
+
 
     

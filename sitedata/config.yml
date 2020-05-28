@@ -1,5 +1,6 @@
 name: Brown Unconference 
-tagline: Welcome to the Brown Unconference! 
+tagline: Welcome to the Brown Unconference on
+tagline2: Computational Intelligence and Applications
 date: June 2020
 analytics: UA-
 logo:
@@ -8,6 +9,8 @@ logo:
   height: auto
 # uncomment the following line to show the site title next to the logo image
 # site_title: MiniConf
+register: https://forms.gle/KWE3hSjzj956bLUa8
+submit: https://forms.gle/MFgdotPbG68vgyMA6
 background_image: static/images/brown.jpg
 organization: Brown Unconf Organization Commitee
 calendar:
@@ -19,7 +22,7 @@ calendar:
 sponsors:
 - tier: Brown
   size: 4
-  height: 270
+  height: 300
   vals:
     - name: Brown University 
       url: https://www.brown.edu
