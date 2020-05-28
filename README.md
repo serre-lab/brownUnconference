@@ -22,11 +22,14 @@ The purpose of the Brown Unconference is to celebrate the scientific advances ha
 
 # Registration 
 
-Please register [here](https://forms.gle/KWE3hSjzj956bLUa8) To receive all the latest updates about the conference, including links  and instructions to watch the presentations. 
+If you'd like to attend the conference virtually, please click [here](https://forms.gle/KWE3hSjzj956bLUa8) to register. By registering, we will notify you when we have announced the schedule and with links to the Crowdcast.
+
 
 # Submission 
 
-We welcome submission for all the deparment working on computational intelligence. Send your abstract [here](https://forms.gle/MFgdotPbG68vgyMA6). This is a safe space to share ideas so feel free to send work in progress. 
+If you're interested in presenting your completed or anticipated research, please click [here](https://forms.gle/MFgdotPbG68vgyMA6) to submit an abstract. This is a safe space to share ideas so feel free to send work in progress. Members of the Brown community from all academic backgrounds are welcomed and encouraged to submit an abstract!
+
+  
 
 
     
