@@ -27,9 +27,10 @@
     im: https://serre-lab.clps.brown.edu/wp-content/uploads/2016/10/IMG_5934-1-768x512.jpg
   - role: Graduate Student
     name: Zhenyu Zhu
-    aff: ClPS, Brown University
+    aff: CLPS, Brown University
     im: https://raw.githubusercontent.com/serre-lab/brownUnconference/master/static/images/grad_s1.jpg
   - role: Undergraduate Student
     name: Noa Mintz
     aff: CLPS, Brown University 
     im: https://raw.githubusercontent.com/serre-lab/brownUnconference/master/static/images/ugrad_s2.jpg
+    
