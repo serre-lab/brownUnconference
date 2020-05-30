@@ -28,12 +28,10 @@ sponsors:
       url: https://www.brown.edu
       img_url: https://www.brown.edu
       img_src: https://i2.wp.com/www.robinsonschool.org/wp-content/uploads/2018/01/Brown-University.png?ssl=1
-    
     - name: Carney Institute for Brain Science 
       img_url: https://www.brown.edu/carney/
       url: https://www.brown.edu/carney/
       img_src: https://www.brown.edu/carney/sites/carney/files/styles/large/public/images/news/CARNEY_brain_carneywordmark.png?itok=3GEPtuV4
-    
     - name: Center for Computation & Visualization
       img_url: https://ccv.brown.edu
       url: https://ccv.brown.edu
@@ -50,3 +48,7 @@ sponsors:
       img_url: https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home
       url: https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home
       img_src: http://files.clps.brown.edu/brownlogos/CLPS-Logo.png
+    - name: Department of Computer Science, Brown University.
+      image_url: https://cs.brown.edu/
+      url: https://cs.brown.edu/
+      img_src: https://raw.githubusercontent.com/serre-lab/brownUnconference/master/static/images/csbrown.png

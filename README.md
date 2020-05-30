@@ -1,21 +1,22 @@
-# Our Goal  
+## Our Goal  
 
 The first **Brown Unconference** is a remote gathering which provides an opportunity for researchers across Brown University to come together and explore advances in computational sciences at the intersection of data science and AI with other sciences including biology, phyisics, brain and cognitive sciences.
 
 Our goal is to foster an accessible and welcoming environment open to members of the Brown community across all disciplines and levels of expertise. We want to celebrate Brown’s uniqueness and help foster collaborations across disciplines. At this conference, students and postdocs are especially encouraged to present their research to the broader community. The Unconference will include opportunities to meet researchers across scientific interests, hear from invited speakers, and receive feedback from diverse points of view.
 
-As well note that we encourage submissions at all points of the scientific process.
+We encourage submissions at all points of the scientific process.
 
+&nbsp;
 
+## Important Dates
 
-# Important Dates
 
 * Abstract Submission Deadline: June 15, 2020
 * Conference: June 29-30, 2020
 
+&nbsp;
 
-
-# Schedule 
+## Schedule 
 
 The schedule will be announced closer to the date of the conference and will have multiple ways to participate. Across the two days of the conference, we will host:
 
@@ -28,15 +29,20 @@ The schedule will be announced closer to the date of the conference and will hav
 * Networking & Mind Match: Tailored social and networking programming.
 The unconference is a safe space to share ideas so feel free to send work in progress. Members of the Brown community from all academic backgrounds are encouraged to submit an abstract!
 
-# Get Involved
+&nbsp;
+## Get Involved
 
-## Register to attend
+&nbsp;
+
+### Register to attend
 If you'd like to attend the conference virtually, please click [here](https://forms.gle/KWE3hSjzj956bLUa8) to register. By registering, you will receive a notification when we announce the schedule with links to the Crowdcast pages.
 
-## Submit an Abstract 
+
+### Submit an Abstract 
 If you're interested in talking about your research, please click [here](https://forms.gle/MFgdotPbG68vgyMA6) to submit an abstract. 
 
-# Join Our slack 
+
+### Join Our slack 
 
  You can also join [our](https://innovation-carney.slack.com/archives/C0158NZ6CCQ) Slack channel for updates and further questions
 
