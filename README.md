@@ -24,7 +24,7 @@ We will host the following events distributed accross the two days of the confer
 
 * Short talks: 12 minute talks –for those ready to present their research in an **informal** setup. Presented research can be in progress and data can be preliminary.
 
-* Invited talks: Longer talks from faculty members at Brown and outside institutions.
+
 
 * Networking & Mind Match: Tailored social and networking programming.
 The unconference is a safe space to share ideas so feel free to send work in progress. Members of the Brown community from all academic backgrounds are encouraged to submit an abstract!

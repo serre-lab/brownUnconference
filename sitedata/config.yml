@@ -24,10 +24,6 @@ sponsors:
   size: 4
   height: 300
   vals:
-    - name: Brown University 
-      url: https://www.brown.edu
-      img_url: https://www.brown.edu
-      img_src: https://i2.wp.com/www.robinsonschool.org/wp-content/uploads/2018/01/Brown-University.png?ssl=1
     - name: Carney Institute for Brain Science 
       img_url: https://www.brown.edu/carney/
       url: https://www.brown.edu/carney/
