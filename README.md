@@ -1,6 +1,6 @@
 ## Our Goal  
 
-The first **Brown Unconference** is a remote gathering which provides an opportunity for researchers across Brown University to come together and explore advances in computational sciences at the intersection of data science and AI with other sciences including biology, phyisics, brain and cognitive sciences.
+The first **Brown Unconference** is a remote gathering which provides an opportunity for researchers across Brown University to come together and explore advances in computational sciences at the intersection of data science and AI with other sciences including biology, physics, chemistry, engineering,  brain and cognitive sciences.
 
 Our goal is to foster an accessible and welcoming environment open to members of the Brown community across all disciplines and levels of expertise. We want to celebrate Brown’s uniqueness and help foster collaborations across disciplines. At this conference, students and postdocs are especially encouraged to present their research to the broader community. The Unconference will include opportunities to meet researchers across scientific interests, hear from invited speakers, and receive feedback from diverse points of view.
 
@@ -18,7 +18,7 @@ We encourage submissions at all points of the scientific process.
 
 ## Schedule 
 
-The schedule will be announced closer to the date of the conference and will have multiple ways to participate. Across the two days of the conference, we will host:
+We will host the following events distributed accross the two days of the conference. Please find instructions on how to get involved in the next section. The detailed schedule will be published closer to the conference. 
 
 * Lightning talks: 2-3 minute talks (2 slides max) – for those who may be in the early stages of their research, to introduce themselves, share their interests, pitch projects, or simply network with other members of the conference.
 
