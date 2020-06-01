@@ -33,10 +33,10 @@ The unconference is a safe space to share ideas so feel free to send work in pro
 ### Register to attend
 If you'd like to attend the conference virtually, please click [here](https://forms.gle/KWE3hSjzj956bLUa8) to register. By registering, you will receive a notification when we announce the schedule with links to the Crowdcast pages.
 
-
+&nbsp;
 ### Submit an Abstract 
 If you're interested in talking about your research, please click [here](https://forms.gle/MFgdotPbG68vgyMA6) to submit an abstract. 
-
+&nbsp;
 ### Join Our slack 
 
  You can also join [our](https://innovation-carney.slack.com/archives/C0158NZ6CCQ) Slack channel for updates and further questions
