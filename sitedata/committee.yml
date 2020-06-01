@@ -1,36 +1,36 @@
   committee:
   - role: Chair 
     name: Thomas Serre 
-    aff: Carney Institute, CCV, CCBS , CLPS, Brown University. 
+    aff: Carney Institute, CCV, CCBS , CLPS. 
     im: https://vivo.brown.edu/profile-images/179/58/tserre.jpg
     tw: tserre
   - role: Chair
     name: James Tompkin
-    aff: Computer Science, Brown University 
+    aff: Computer Science 
     tw: jtompkin
     im: http://graphics.cs.brown.edu/imagesGVI/people/James_Tompkin.png
   - role: Chair
     name: Ritambhara Singh
-    aff: Computer Science & Center for Computational and Molecular Biology, Brown University 
+    aff: Computer Science & Center for Computational and Molecular Biology 
     im: https://vivo.brown.edu/profile-images/4e6/48c/42b/238/407/aa3/868/08b/e5c/c23/39/rsingh47_photo_.jpg
   - role: Graduate Student
     name: Ivan Felipe Rodriguez
-    aff: CLPS, Brown University
+    aff: CLPS
     im: https://serre-lab.clps.brown.edu/wp-content/uploads/2014/09/IMG_0992-768x512.jpg
   - role: Graduate Student
     name: Abdullah Rashed
-    aff: Department of Neuroscience, Brown University
+    aff:  Neuroscience
     im: https://serre-lab.clps.brown.edu/wp-content/uploads/2014/02/IMG_3754.jpeg
   - role: Graduate Student
     name: Aneri Soni
-    aff: Department of Neuroscience, Brown University
+    aff:  Neuroscience
     im: https://serre-lab.clps.brown.edu/wp-content/uploads/2016/10/IMG_5934-1-768x512.jpg
   - role: Graduate Student
     name: Zhenyu Zhu
-    aff: CLPS, Brown University
+    aff: CLPS
     im: https://raw.githubusercontent.com/serre-lab/brownUnconference/master/static/images/grad_s1.jpg
   - role: Undergraduate Student
     name: Noa Mintz
-    aff: CLPS, Brown University 
+    aff: CLPS 
     im: https://raw.githubusercontent.com/serre-lab/brownUnconference/master/static/images/ugrad_s2.jpg
     
