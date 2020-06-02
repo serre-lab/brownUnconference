@@ -22,7 +22,7 @@ We will host the following events distributed across the two days of the confere
 
 * Lightning talks: 2-3 minute talks (2 slides max) – for those who may be in the early stages of their research, to introduce themselves, share their interests, pitch projects, or simply network with other members of the conference.
 
-* Short talks: 12 minute talks –for those ready to present their research in an **informal** setup. Presented research can be in progress and data can be preliminary.
+* Short talks: 12 minute talks – for those ready to present their research in an **informal** setup. Presented research can be in progress and data can be preliminary.
 
 
 * Networking & Mind Match: Tailored social and networking programming.
