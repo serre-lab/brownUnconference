@@ -11,7 +11,7 @@ We encourage submissions at all points of the scientific process.
 ## Important Dates
 
 
-* Abstract Submission Deadline: June 15, 2020
+* Abstract Submission Deadline (Extended): June 22, 2020. Please try to submit as soon as possible. 
 * Conference: June 29-30, 2020
 
 &nbsp;
