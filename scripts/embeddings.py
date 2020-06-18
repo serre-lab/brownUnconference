@@ -19,14 +19,15 @@ if __name__ == "__main__":
     model = transformers.AutoModel.from_pretrained("deepset/sentence_bert")
     model.eval()
 
-    with open(args.papers, "r") as f:
+    with open(args.papers, "r",encoding='utf-8') as f:
         abstracts = list(csv.DictReader(f))
         all_abstracts = torch.zeros(len(abstracts), 768)
         with torch.no_grad():
             for i, row in enumerate(abstracts):
 
-                input_ids = torch.tensor([tokenizer.encode(row["abstract"])][:512])
+                input_ids = torch.tensor([tokenizer.encode(row["abstract"])][:400])
                 all_hidden_states, _ = model(input_ids)[-2:]
                 all_abstracts[i] = all_hidden_states.mean(0).mean(0)
                 print(i)
+                print(row['author'])
     torch.save(all_abstracts, "embeddings.torch")

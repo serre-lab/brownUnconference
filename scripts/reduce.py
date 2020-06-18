@@ -20,8 +20,8 @@ if __name__ == "__main__":
     emb = torch.load(args.embeddings)
     out = sklearn.manifold.TSNE(n_components=2).fit_transform(emb.numpy())
     d = []
-    with open(args.papers, "r") as f:
+    with open(args.papers, "r",encoding='utf-8') as f:
         abstracts = list(csv.DictReader(f))
         for i, row in enumerate(abstracts):
-            d.append({"id": row["UID"], "pos": out[i].tolist()})
+            d.append({"id": row["UID"],"author":row['author'],"department":row['Department/Institute Affiliation'], "pos": out[i].tolist()})
     print(json.dumps(d))
