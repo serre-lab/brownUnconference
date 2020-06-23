@@ -11,7 +11,7 @@ We encourage submissions at all points of the scientific process.
 ## Important Dates
 
 
-* Abstract Submission Deadline (Extended): June 22, 2020. Please try to submit as soon as possible. 
+*  <del> Abstract Submission Deadline (Extended): June 22, 2020 </del> 
 * Conference: June 29-30, 2020
 
 &nbsp;
@@ -31,7 +31,7 @@ The unconference is a safe space to share ideas so feel free to send work in pro
 &nbsp;
 
 ### Register to Attend
-If you'd like to attend the conference virtually, please click [here](https://forms.gle/KWE3hSjzj956bLUa8) to register. By registering, you will receive a notification when we announce the schedule with links to the Crowdcast pages.
+If you'd like to attend the conference virtually, please click [here](https://forms.gle/KWE3hSjzj956bLUa8) to register. By registering, you will receive a notification when we announce the schedule with links to the Zoom Rooms .
 
 &nbsp;
 
