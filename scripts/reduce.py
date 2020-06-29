@@ -23,5 +23,5 @@ if __name__ == "__main__":
     with open(args.papers, "r",encoding='utf-8') as f:
         abstracts = list(csv.DictReader(f))
         for i, row in enumerate(abstracts):
-            d.append({"id": row["UID"], "author": row['author'], "department": row['Department/Institute Affiliation'], "talk": row['talk'], "pos": out[i].tolist()})
+            d.append({"id": row["UID"], "author": row['author'], "department": row['Department/Institute Affiliation'], "talk": row['talk'], "pos": out[i].tolist(),"abstract": row['abstract']})
     print(json.dumps(d))

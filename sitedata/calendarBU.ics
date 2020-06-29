@@ -1,0 +1,377 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brown Unconference
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART:20200629T160000Z
+DTEND:20200629T173000Z
+DTSTAMP:20200625T202332Z
+UID:6n9a7haorj6dsd5jj5osqct0rm@google.com
+CREATED:20200619T160438Z
+DESCRIPTION:
+LAST-MODIFIED:20200625T200744Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Lunch Time
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T190000Z
+DTEND:20200629T200000Z
+DTSTAMP:20200625T202332Z
+UID:6alcuqs7o9475i4ths28gqg1p0@google.com
+CREATED:20200619T160457Z
+DESCRIPTION:
+LAST-MODIFIED:20200625T201003Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Break
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T143000Z
+DTEND:20200629T160000Z
+DTSTAMP:20200625T202332Z
+UID:3rgnlenicjoksquhc826d212bn@google.com
+CREATED:20200619T160227Z
+DESCRIPTION:<table><colgroup><col><col><col></colgroup><tbody><tr><td>Posit
+ ion</td><td>Author </td><td>Short / Lightning</td></tr><tr><td>1</td><td>Gu
+ illaume Pagnier</td><td>Short</td></tr><tr><td>2</td><td>Harrison Ritz</td>
+ <td>Short</td></tr><tr><td>3</td><td>Joseph Heffner</td><td>Short</td></tr>
+ <tr><td>4</td><td>Jeroen van Baar</td><td>Short</td></tr><tr><td>5</td><td>
+ Stephanie Vartany</td><td>Short</td></tr><tr><td>6</td><td>Kaiyu Zheng</td>
+ <td>Lightning</td></tr><tr><td>7</td><td>Kathleen Huntzicker</td><td>Lightn
+ ing</td></tr><tr><td>8</td><td>Wasita Mahaphanit</td><td>Lightning</td></tr
+ ></tbody></table>
+LAST-MODIFIED:20200625T201101Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reinforcement Learning(A)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T143000Z
+DTEND:20200629T160000Z
+DTSTAMP:20200625T202332Z
+UID:4ck8r9dkcajnv64o8va18ma78a@google.com
+CREATED:20200625T200530Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track L</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Matt Nassar</td><td>Short</td
+ ><td></td></tr><tr><td>2</td><td>Meredith Miles</td><td>Short</td><td></td>
+ </tr><tr><td>3</td><td>Aarit Ahuja</td><td>Short</td><td></td></tr><tr><td>
+ 4</td><td>Austin Vaitkus</td><td>Short</td><td></td></tr><tr><td>5</td><td>
+ Linda Yu</td><td>Short</td><td></td></tr><tr><td>6</td><td>Deniz Bayazit</t
+ d><td>Lightning</td><td></td></tr><tr><td>7</td><td>Haley Keglovits</td><td
+ >Lightning</td><td></td></tr><tr><td>8</td><td>Dylan Sam</td><td>Lightning<
+ /td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201127Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Learning & Language (L)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T173000Z
+DTEND:20200629T190000Z
+DTSTAMP:20200625T202332Z
+UID:6nes2j9ak8qt1u5f5fc810ncv4@google.com
+CREATED:20200619T160255Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track J</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Josh Roy</td><td>Short</td><t
+ d></td></tr><tr><td>2</td><td>Matt Ricci</td><td>Short</td><td></td></tr><t
+ r><td>3</td><td>Paul Stey</td><td>Short</td><td></td></tr><tr><td>4</td><td
+ >Iris Bahar</td><td>Lightning</td><td></td></tr><tr><td>5</td><td>Fumeng Ya
+ ng</td><td>Lightning</td><td></td></tr><tr><td>6</td><td>Numair Khan</td><t
+ d>Lightning</td><td></td></tr><tr><td>7</td><td>Shahrzad Haddadan </td><td>
+ Lightning</td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201233Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Data Science: Theory and Applications
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T173000Z
+DTEND:20200629T190000Z
+DTSTAMP:20200625T202332Z
+UID:4eqo96iq9jnnmvqf9muliqm8bf@google.com
+CREATED:20200625T200911Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track H</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Sahar Shahamatdar</td><td>Sho
+ rt</td><td></td></tr><tr><td>2</td><td>Pinar Demetci</td><td>Short</td><td>
+ </td></tr><tr><td>3</td><td>Luke Soliman</td><td>Short</td><td></td></tr><t
+ r><td>4</td><td>Shane Lee</td><td>Short</td><td></td></tr><tr><td>5</td><td
+ >Andra Geana</td><td>Short</td><td></td></tr><tr><td>6</td><td>Jeremy Bigne
+ ss</td><td>Lightning</td><td></td></tr><tr><td>7</td><td>Josephine Kalshove
+ n </td><td>Lightning</td><td></td></tr><tr><td>8</td><td>Emily Chicklis</td
+ ><td>Lightning</td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201245Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Computational Biology and Health (H)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T141000Z
+DTEND:20200629T142500Z
+DTSTAMP:20200625T202332Z
+UID:6kfvgmc96mco5cgnklgegeu6oj@google.com
+CREATED:20200619T160409Z
+DESCRIPTION:
+LAST-MODIFIED:20200625T201251Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:WELCOME! 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T143000Z
+DTEND:20200630T160000Z
+DTSTAMP:20200625T202332Z
+UID:12evn09k5ldil31ku903g0cghe@google.com
+CREATED:20200625T201628Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track K</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Nihal V. Nayak</td><td>Short<
+ /td><td></td></tr><tr><td>2</td><td>Gaelen Adam</td><td>Short</td><td></td>
+ </tr><tr><td>3</td><td>Ifrah Idrees</td><td>Short</td><td></td></tr><tr><td
+ >4</td><td>Mathieu Chalvidal</td><td>Short</td><td></td></tr><tr><td>5</td>
+ <td>Daniel Smits</td><td>Short</td><td></td></tr><tr><td>6</td><td>Cristina
+  Menghini</td><td>Short</td><td></td></tr><tr><td>7</td><td>Elaheh Raisi</t
+ d><td>Lightning</td><td></td></tr><tr><td>8</td><td>Rachel Rac-Lubashevsky<
+ /td><td>Lightning</td><td></td></tr><tr><td>9</td><td>Minju Jung</td><td>Li
+ ghtning</td><td></td></tr><tr><td>10</td><td>Monica Roy</td><td>Lightning</
+ td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201634Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Learning and Language (K) 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T160000Z
+DTEND:20200630T173000Z
+DTSTAMP:20200625T202332Z
+UID:59taup508g7d0k70r9e5gcrm94@google.com
+CREATED:20200619T160650Z
+DESCRIPTION:
+LAST-MODIFIED:20200625T201657Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch Time
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T173000Z
+DTEND:20200630T190000Z
+DTSTAMP:20200625T202332Z
+UID:12ppa6elvqa85e53o62al6a8ag@google.com
+CREATED:20200619T160710Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track F</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Brenda Rubenstein</td><td>Sho
+ rt</td><td></td></tr><tr><td>2</td><td>Jacob Rosenstein</td><td>Short</td><
+ td></td></tr><tr><td>3</td><td>Daniel Li</td><td>Short</td><td></td></tr><t
+ r><td>4</td><td>Bjorn Burkle</td><td>Short</td><td></td></tr><tr><td>5</td>
+ <td>Wenyu Zhang</td><td>Short</td><td></td></tr><tr><td>6</td><td>Xavier Co
+ ubez</td><td>Short</td><td></td></tr><tr><td>7</td><td>Ehsan Barati</td><td
+ >Lightning</td><td></td></tr><tr><td>8</td><td>Rohit Kakodkar</td><td>Light
+ ning</td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201743Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Physics and Chemistry (F)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T190000Z
+DTEND:20200630T200000Z
+DTSTAMP:20200625T202332Z
+UID:28sjdarrcfi2irnhn2kk6ge6pd@google.com
+CREATED:20200619T160733Z
+DESCRIPTION:
+LAST-MODIFIED:20200625T201905Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:break
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T200000Z
+DTEND:20200629T213000Z
+DTSTAMP:20200625T202332Z
+UID:4flg9ub93pabldh4kqllga2lpc@google.com
+CREATED:20200619T160547Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track G</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Gabriel Monteiro da Silva</td
+ ><td>Short</td><td></td></tr><tr><td>2</td><td>Kelsey Schuch</td><td>Short<
+ /td><td></td></tr><tr><td>3</td><td>William Zhang</td><td>Short</td><td></t
+ d></tr><tr><td>4</td><td>Shalin Patel</td><td>Short</td><td></td></tr><tr><
+ td>5</td><td>Joel Weltman</td><td>Lightning</td><td></td></tr><tr><td>6</td
+ ><td>Tom Sgouros</td><td>Lightning</td><td></td></tr><tr><td>7</td><td>Tayl
+ or Burke</td><td>Lightning</td><td></td></tr><tr><td>8</td><td>Andy Delwort
+ h</td><td>Lightning</td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201932Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Computational Biology and Health (G) 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T200000Z
+DTEND:20200629T213000Z
+DTSTAMP:20200625T202332Z
+UID:76b5es8tf6viltj2ou11rvn77q@google.com
+CREATED:20200619T160331Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track C</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Iris Bahar</td><td>Short</td>
+ <td></td></tr><tr><td>2</td><td>Seth Akers-Campbell</td><td>Short</td><td><
+ /td></tr><tr><td>3</td><td>Drew Linsley</td><td>Short</td><td></td></tr><tr
+ ><td>4</td><td>Avinash Vaidya</td><td>Short</td><td></td></tr><tr><td>5</td
+ ><td>Mukesh Makwana</td><td>Short</td><td></td></tr><tr><td>6</td><td>Joey 
+ Bai</td><td>Lightning</td><td></td></tr><tr><td>7</td><td>Diana Burk</td><t
+ d>Lightning</td><td></td></tr><tr><td>8</td><td>Victor Boutin</td><td>Light
+ ning</td><td></td></tr><tr><td>9</td><td>Seiji Shaw</td><td>Lightning</td><
+ td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T201939Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Computer Vision and Machines (C) 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T200000Z
+DTEND:20200630T213000Z
+DTSTAMP:20200625T202332Z
+UID:1j390a854ncsr86h65cqr8pri5@google.com
+CREATED:20200619T160843Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track E</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Aimen Zerroug</td><td>Short</
+ td><td></td></tr><tr><td>2</td><td>Sabina Stefan</td><td>Short</td><td></td
+ ></tr><tr><td>3</td><td>Emily Levin</td><td>Short</td><td></td></tr><tr><td
+ >4</td><td>Mohit Vaishnav</td><td>Short</td><td></td></tr><tr><td>5</td><td
+ >Chen Ming</td><td>Short</td><td></td></tr><tr><td>6</td><td>Natalie Rshaid
+ at</td><td>Lightning</td><td></td></tr><tr><td>7</td><td>Adam Berkley</td><
+ td>Lightning</td><td></td></tr><tr><td>8</td><td>Fang-Chi Yang</td><td>Ligh
+ tning</td><td></td></tr><tr><td>9</td><td>Isa Milefchik</td><td>Lightning</
+ td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T202034Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Vision in Humans & Machines
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T200000Z
+DTEND:20200630T213000Z
+DTSTAMP:20200625T202332Z
+UID:6atlg5c59fai8vclk08lum1tnp@google.com
+CREATED:20200619T160750Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track B</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Xiamin Leng</td><td>Short</td
+ ><td></td></tr><tr><td>2</td><td>Alana Jaskir</td><td>Short</td><td></td></
+ tr><tr><td>3</td><td>Jamie Catalano</td><td>Short</td><td></td></tr><tr><td
+ >4</td><td>Apoorva Bhandari</td><td>Short</td><td></td></tr><tr><td>5</td><
+ td>Rex Liu</td><td>Short</td><td></td></tr><tr><td>6</td><td>Sarah Thomas</
+ td><td>Lightning</td><td></td></tr><tr><td>7</td><td>Debbie Yee</td><td>Lig
+ htning</td><td></td></tr><tr><td>8</td><td>Tiantian Li</td><td>Lightning</t
+ d><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T202111Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Reinforcement Learning (B)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T213000Z
+DTEND:20200630T223000Z
+DTSTAMP:20200625T202332Z
+ORGANIZER;CN=Brown Unconference:mailto:brown.edu_pc973s259lerl2029osmaegbao
+ @group.calendar.google.com
+UID:78pl5itrife9c47i9vkjc3dqin@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sa
+ rahmay_tarlow@brown.edu;X-NUM-GUESTS=0:mailto:sarahmay_tarlow@brown.edu
+CREATED:20200619T155535Z
+DESCRIPTION:Q&A session for undergraduates interested in learning about gra
+ duate school or pursuing an academic or scientific career. Guests: Graduate
+  students (TBD) 
+LAST-MODIFIED:20200625T202128Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Q&A : Learning about graduate school 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T143000Z
+DTEND:20200630T160000Z
+DTSTAMP:20200625T202332Z
+UID:7601jdu0ro9njr0l93539rn3ga@google.com
+CREATED:20200619T160634Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track D</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Rebecca Burwell</td><td>Short
+ </td><td></td></tr><tr><td>2</td><td>Lakshmi Narasimhan Govindarajan</td><t
+ d>Short</td><td></td></tr><tr><td>3</td><td>Drew Linsley</td><td>Short</td>
+ <td></td></tr><tr><td>4</td><td>Ryan Miller</td><td>Short</td><td></td></tr
+ ><tr><td>5</td><td>Olga Lositsky</td><td>Short</td><td></td></tr><tr><td>6<
+ /td><td>Remi Cadene</td><td>Short</td><td></td></tr><tr><td>7</td><td>Crist
+ ian Calderon</td><td>Lightning</td><td></td></tr><tr><td>8</td><td>Caleb Tr
+ otz</td><td>Lightning</td><td></td></tr><tr><td>9</td><td>Bruce Donald Camp
+ bell</td><td>Lightning</td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T202210Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Vision in Humans & Machines (D)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200630T173000Z
+DTEND:20200630T190000Z
+DTSTAMP:20200625T202332Z
+UID:14efb4v1j2it145lfk8qt6erae@google.com
+CREATED:20200625T201843Z
+DESCRIPTION:<table><colgroup><col><col><col><col></colgroup><tbody><tr><td>
+ </td><td>Track I</td></tr><tr><td>Position</td><td>Author </td><td>Short / 
+ Lightning</td><td></td></tr><tr><td>1</td><td>Hyunjoon Lee</td><td>Short</t
+ d><td></td></tr><tr><td>2</td><td>Laura Mercurio </td><td>Short</td><td></t
+ d></tr><tr><td>3</td><td>Minju Jung</td><td>Short</td><td></td></tr><tr><td
+ >4</td><td>Camillo Saueressig</td><td>Short</td><td></td></tr><tr><td>5</td
+ ><td>Anastacia Kudinova</td><td>Lightning</td><td></td></tr><tr><td>6</td><
+ td>Ivan Felipe Rodriguez</td><td>Lightning</td><td></td></tr><tr><td>7</td>
+ <td>Michelle Akerman</td><td>Lightning</td><td></td></tr><tr><td>8</td><td>
+ Robin Attey</td><td>Lightning</td><td></td></tr></tbody></table>
+LAST-MODIFIED:20200625T202239Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Computational Biology and Health (I)
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

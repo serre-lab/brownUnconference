@@ -26,7 +26,7 @@ def parse_arguments():
 
 # pylint: disable=redefined-outer-name
 def convert(args):
-    file_ics: str = args.ics
+    file_ics = str(args.ics)
     if not file_ics.startswith("http"):
         with open(file_ics, "r") as f:
             c = Calendar(f.read())

@@ -11,6 +11,8 @@ logo:
 # site_title: MiniConf
 register: https://forms.gle/KWE3hSjzj956bLUa8
 submit: https://forms.gle/MFgdotPbG68vgyMA6
+schedule: https://calendar.google.com/calendar?cid=YnJvd24uZWR1X3BjOTczczI1OWxlcmwyMDI5b3NtYWVnYmFvQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+program: https://docs.google.com/document/d/1zqFDGL098hFdcMriMCfGYxtxO-ZSR1dAA-SQ1ZnFbuA/edit?usp=sharing
 background_image: static/images/brown.jpg
 organization: Brown Unconf Organization Commitee
 calendar:
@@ -39,7 +41,7 @@ sponsors:
     - name: Data Science Initiative
       img_url: https://www.brown.edu/initiatives/data-science/home
       url: https://www.brown.edu/initiatives/data-science/home
-      img_src: https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/14705843_421752337949018_2350634261249810825_n.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=aYhOG-NxEsUAX8tLjEd&_nc_ht=scontent-lga3-1.xx&oh=11ac1f30e978b5759007909bea33245e&oe=5EF2BD84
+      img_src: https://www.brown.edu/academics/math/sites/math/files/styles/large/public/field/image/DSI_0.jpg?itok=5g0B2YQb
     - name: Department of Cognitive, Linguistic, and Psychological Sciences 
       img_url: https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home
       url: https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/home
@@ -48,7 +50,4 @@ sponsors:
       image_url: https://cs.brown.edu/
       url: https://cs.brown.edu/
       img_src: https://raw.githubusercontent.com/serre-lab/brownUnconference/master/static/images/csbrown.png
-    - name: School Of Public Health. 
-      img_url: https://www.brown.edu/academics/public-health/home
-      url: https://www.brown.edu/academics/public-health/home
-      img_src: https://cme-learning.brown.edu/sites/default/files/135_School_of_Public_Health_2016_2_Color_Process_ST.png
+    
